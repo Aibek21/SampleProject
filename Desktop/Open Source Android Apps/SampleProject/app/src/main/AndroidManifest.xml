@@ -14,6 +14,8 @@
         <activity android:name=".SecondActivity">
         </activity>
         <activity android:name=".ListActivity">
+        </activity>
+        <activity android:name=".FragmentTestActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
